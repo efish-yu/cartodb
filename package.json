@@ -28,7 +28,7 @@
     "cartodb-pecan": "0.2.x",
     "cartodb.js": "CartoDB/cartodb.js#v4.0.0-beta.14",
     "clipboard": "1.6.1",
-    "codemirror": "5.14.2",
+    "codemirror": "5.58.2",
     "d3-interpolate": "^1.1.6",
     "html-webpack-plugin": "^2.30.1",
     "jquery": "2.1.4",
